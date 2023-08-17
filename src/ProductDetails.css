@@ -1,0 +1,193 @@
+/* ProductDetails.css */
+
+.product-details-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+  }
+  
+  .product-details-container:hover {
+    transform: translateY(-5px);
+  } 
+
+  .product-image {
+    flex: 1;
+    margin-right: 40px;
+  }
+
+  .product-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-info {
+    flex: 2;
+    text-align: left;
+    padding-left: 20px; /* Add padding for better separation */
+  }
+  
+  .product-info h2 {
+    margin-bottom: 15px; /* Increase margin for better spacing */
+    font-size: 20px; /* Adjust font size for consistency */
+  }
+  
+  .product-info p {
+    margin-bottom: 20px; /* Increase margin for better spacing */
+    font-size: 14px; /* Adjust font size for consistency */
+    line-height: 1.5; /* Improved line height for better readability */
+  }  
+  
+  .product-info button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .product-info button:hover {
+    background-color: #0056b3;
+  }
+  
+  .product-details-container {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .product-details-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+    transition: transform 0.3s;
+  }
+  
+  .product-details {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border: 1px solid #ccc;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .product-details-description {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .product-details-price {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .add-to-cart-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-card img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .product-details h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .product-details p {
+    margin-top: 5px;
+  }
+  
+  .add-to-cart-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .add-to-cart-button:hover {
+    background-color: #0056b3;
+  }
+  .product-details-image {
+    width: 300px; /* Set the desired width */
+    /* Add any other styling you want */
+  }
+  .product-details button {
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .product-details button:hover {
+    background-color: #0056b3;
+  }
+  
+  .back-to-products-button {
+    margin-top: 20px; /* Add some spacing above the button */
+    transition: transform 0.3s;
+  }
+  
+  .back-to-products-button:hover {
+    transform: scale(1.05);
+  }
+  
+  .back-to-products-button button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .back-to-products-button button:hover {
+    background-color: #0056b3;
+  }
+  
+  .product-details-back-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  

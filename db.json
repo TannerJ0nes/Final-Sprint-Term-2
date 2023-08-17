@@ -1,0 +1,325 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Skeletor",
+      "description": "A 5’5 figure of Skeletor. It was released on January 24th, 2020 and is a recreation of the original figure from the 1980s. When the figure’s waist is twisted, it’s arm winds up for a powerful punch!",
+      "price": 72.99,
+      "category": "Action-Figures",
+      "image": "http://localhost:3001/Images/ID1_Skeletor.jpeg"
+      
+    },
+    {
+      "id": 2,
+      "name": "The Undertaker",
+      "description": "A figure that stands approximately 5 inches tall. It is a highly detailed figure that recreates the iconic WWE fighter; The Undertaker!",
+      "price": 46.99,
+      "category": "Action-Figures",
+      "image": "http://localhost:3001/Images/ID2_Undertaker.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Namor",
+      "description": " This 12 inch action figure is inspired by Marvel Studios’ Black Panther, part of the Marvel Cinematic Universe. This large-scale Namor action figure offers kids ages 4 and up big oceanic imaginary action ",
+      "price": 10.99,
+      "category": "Action-Figures",
+      "image": "http://localhost:3001/Images/ID3_Namor.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Lando Calrissian",
+      "description": " This Lando Calrissian action figure stands at 3.75 inches tall and is inspired by the character in Star Wars: The Empire Strikes Back. It makes a great gift for Star Wars collectors and fans ages 4 and up",
+      "price": 18.99,
+      "category": "Action-Figures",
+      "image": "http://localhost:3001/Images/ID4_Lando.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Goku",
+      "description": "This 4.8 inch Dragon Ball figure pays great attention to detail, using the highest quality grade PVC material, the best quality material paired with exquisite workmanship to bring the characters to life",
+      "price": 29.99,
+      "category": "Action-Figures",
+      "image": "http://localhost:3001/Images/ID5_Goku.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Zoro",
+      "description": "This 28cm Roronoa Zoro Manga Dimensions Grandista Figure is made of premium PVC material which is durable and can withstand wear and tear. The Zoro Figure is an excellent gift for children and adults who are fans of anime and manga. ",
+      "price": 26.99,
+      "category": "Action-Figures",
+      "image": "http://localhost:3001/Images/ID6_Zoro.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Groot",
+      "description": " This 12-inch-scale Marvel Avengers Titan Hero Series Avengers: Endgame action figure features multiple points of articulation, ",
+      "price": 11.99,
+      "category": "Action-Figures",
+      "image": "http://localhost:3001/Images/ID7_Groot.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Aquaman",
+      "description": "This is MEGO Worlds Greatest Super-Heroes 50th Anniversary Aquaman Action Figure. Standing at 8 inches tall, it is Packaged in a retro style window box with original WGSH artwork and original item number",
+      "price": 21.99,
+      "category": "Action-Figures",
+      "image": "http://localhost:3001/Images/ID8_Aquaman.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Spider-Man",
+      "description": "This 12 inch figure is inspired by the Spider-Man: Across the Spider-Verse movie, this large-scale Miles Morales action figure offers kids ages 4 and up big Marvel imaginary action and adventure.",
+      "price": 13.99,
+      "category": "Action-Figures",
+      "image": "http://localhost:3001/Images/ID9_Spider-Man.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Robin",
+      "description": "This 8 inch figure is a replica of the original Mego 1972 Worlds Greatest Super-Heroes Robin action figure. It is packaged in a retro style window box with original WGSH artwork and original item number",
+      "price": 17.99,
+      "category": "Action-Figures",
+      "image": "http://localhost:3001/Images/ID10_Robin.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "VaderFP",
+      "description": "This Sith lord will do whatever it takes to retrieve the stolen Death Star plans and uncover the location of the rebel base. Now, his search has brought him to your Star Wars: Episode IV A New Hope collection, so hide your rebel forces! Vinyl bobblehead is approximately 4.45-inches tall.",
+      "price": 19.99,
+      "category": "Funko-Pops",
+      "image": "http://localhost:3001/Images/ID11_VaderFP.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "GrootFP",
+      "description": " Take off on a galactic adventure with Pop! Groot on his next mission with his family of misfits. Vinyl bobblehead is approximately 4.25-inches tall.",
+      "price": 16.99,
+      "category": "Funko-Pops",
+      "image": "http://localhost:3001/Images/ID12_GrootFP.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "RocketFP",
+      "description": " Take off on a galactic adventure with Pop! Rocket Raccoon on his next mission with his family of misfits. Vinyl bobblehead is approximately 3.55-inches tall.",
+      "price": 16.99,
+      "category": "Funko-Pops",
+      "image": "http://localhost:3001/Images/ID13_RocketFP.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "StormTrooperFP",
+      "description": " This imperial soldier is ready to stamp out the last of the resistance. The search for the rebel base has brought him to your Star Wars: Episode IV A New Hope collection, so hide your rebel forces! Vinyl bobblehead is approximately 4.3-inches tall.",
+      "price": 16.99,
+      "category": "Funko-Pops",
+      "image": "http://localhost:3001/Images/ID14_StroomTrooperFP.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Spider-ManFP",
+      "description": " Pop! Spider-Man is swinging into your Spider-Man: No Way Home collection in this red and metallic blue suit. Vinyl bobblehead is approximately 4.15-inches tall.",
+      "price": 22.99,
+      "category": "Funko-Pops",
+      "image": "http://localhost:3001/Images/ID15_Spider-ManFP.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "QueenFP",
+      "description": "From Royal Family, Queen Elizabeth II, as a stylized POP vinyl from Funko! Collect and display all Royal Family POP! Vinyls!",
+      "price": 26.99,
+      "category": "Funko-Pops",
+      "image": "http://localhost:3001/Images/ID16_QueenFP.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "HawkmanFP",
+      "description": "From DC, Black Adam, as a stylized Pop! vinyl from Funko! Figure stands 3 3/4 inches and comes in a window display box. Check out the other DC figures from Funko! Collect them all!",
+      "price": 9.99,
+      "category": "Funko-Pops",
+      "image": "http://localhost:3001/Images/ID17_HawkmanFP.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Ant-ManFP",
+      "description": "Anticipate a universe of adventures with Ant-Man and family as they protect against evil, face difficult odds, and push themselves beyond what they previously believed possible. Vinyl bobblehead is approximately 3.53-inches tall.",
+      "price": 19.99,
+      "category": "Funko-Pops",
+      "image": "http://localhost:3001/Images/ID18_Ant-ManFP.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "PlutoFP",
+      "description": " Since 1930, Pluto has kept close to Mickey’s side, and even when he leaps head-first into trouble, Mickey can’t stay mad at him for long. Vinyl figure is approximately 3.15-inches tall.",
+      "price": 16.99,
+      "category": "Funko-Pops",
+      "image": "http://localhost:3001/Images/ID19_PlutoFP.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "NightwingFP",
+      "description": "Darkness has fallen over Gotham following Batmans passing, and its up to you to assemble the Gotham Knights . Enlist the help of Pop! Nightwing to help uncover The Court of Owls in your DC collection. Vinyl figure is approximately 4.32-inches tall.",
+      "price": 24.99,
+      "category": "Funko-Pops",
+      "image": "http://localhost:3001/Images/ID20_Nightwing.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "LegoOrchid",
+      "description": "Build your own orchid with this LEGO decorative artificial plant and flowers - a special LEGO set for adults from Botanical Collection. Inspired by a real orchid, this stylish model version features 6 large flowers and 2 newly opened flowers, plus the blue fluted vase.",
+      "price": 59.99,
+      "category": "Legos",
+      "image": "http://localhost:3001/Images/ID21_LegoOrchid.jpeg"
+    },
+    {
+      "id": 22,
+      "name": "LegoBonsai",
+      "description": " This set is part of the unique adult LEGO Botanical Collection, including Flower Bouquet (10280), Wildflower Bouquet (10313), Dried Flower Centerpiece (10314), and Orchid (10311)",
+      "price": 63.99,
+      "category": "Legos",
+      "image": "http://localhost:3001/Images/ID22_LegoBonsai.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "LegoParrot",
+      "description": "This LEGO Creator 3in1 animal toy set features 3 animals for kids 7+ years old: a parrot toy perched on a branch, a playful frog and a toy fish ",
+      "price": 24.99,
+      "category": "Legos",
+      "image": "http://localhost:3001/Images/ID23_LegoParrot.jpeg"
+    },
+    {
+      "id": 24,
+      "name": "LegoLotus",
+      "description": "Recreate Britain’s first all-electric hypercar with this Lotus Evija replica car model and admire the toy sports cars innovative design. This car toy model for kids has plenty of room for a 2-seat cockpit and lots of authentic detailing.",
+      "price": 27.99,
+      "category": "Legos",
+      "image": "http://localhost:3001/Images/ID24_LegoLotus.jpeg"
+    },
+    {
+      "id": 25,
+      "name": "LegoBrick",
+      "description": "Engage your kids in pretend play by letting them build their own play toys, such as creating a toy house or toy scooter. This classic creative kit of LEGO bricks comes with 33 different colored bricks. This brick box includes 8 different types of toy windows and toy doors, 2 green baseplates and 6 toy tires and toy wheel rims to create hours of creativity for kids; plus the LEGO inspired packaging serves as toy storage.",
+      "price": 44.99,
+      "category": "Legos",
+      "image": "http://localhost:3001/Images/ID25_LegoBrick.jpeg"
+    },
+    {
+      "id": 26,
+      "name": "LegoPanda",
+      "description": "The included Lego City road plate can be winched into position by the crane toy and easily connected to other lego city building toys. kids can lower the cranes support legs, rotate and extend the boom, and raise and lower the winch after driving the truck toy into position.",
+      "price": 46.99,
+      "category": "Legos",
+      "image": "http://localhost:3001/Images/ID26_LegoPanda.jpeg"
+    },
+    {
+      "id": 27,
+      "name": "LegoVader",
+      "description": "Introduce children to the action-packed LEGO Star Wars universe with this easy-to-build mech for play and display. This buildable Star Wars action figure toy has posable hands, arms, legs and feet, an opening minifigure cockpit, a large red lightsaber and a clip for the Darth Vader LEGO minifigure’s lightsaber.",
+      "price": 19.99,
+      "category": "Legos",
+      "image": "http://localhost:3001/Images/ID27_LegoVader.jpeg"
+    },
+    {
+      "id": 28,
+      "name": "LegoXwing",
+      "description": "Features a brick-build version of the iconic missile-shooting x-wing from the classic star wars trilogy, with 4 characters. Includes Luke Skywalker, Princess Leia and General Dodonna LEGO Star Wars minifigures with weapons including Luke’s trademark lightsaber.",
+      "price": 58.99,
+      "category": "Legos",
+      "image": "http://localhost:3001/Images/ID28_LegoXwing.jpeg"
+    },
+    {
+      "id": 29,
+      "name": "LegoHogwarts",
+      "description": "Set includes 5 LEGO Harry Potter minifigures: Harry, Hermione Granger, Draco Malfoy, Blaise Zabini with wands, broomsticks, and the Grey Lady. Versatile set measures over 39 cm (15 in.) high, 17 cm (6.5 in.) wide, and 7 cm (2.5 in.) deep, containing 587 pieces for endless fun.",
+      "price": 49.99,
+      "category": "Legos",
+      "image": "http://localhost:3001/Images/ID29_LegoHogwarts.jpeg"
+    },
+    {
+      "id": 30,
+      "name": "LegoBunny",
+      "description": "Kids will love this LEGO Creator 3in1 set featuring a white rabbit animal toy which can be rebuilt into a cute cockatoo parrot or a white seal. The toy rabbit stands over 5.5 in. (15 cm) high. Contains 258 Pieces.",
+      "price": 29.99,
+      "category": "legos",
+      "image": "http://localhost:3001/Images/ID30_LegoBunny.jpeg"
+    },
+    {
+      "id": 31,
+      "name": "Goku",
+      "description": "Printed With A Ender 3v2 Printer this model of the Famous Goku Will add a nice piece to your collection",
+      "price": 30.99,
+      "category": "Custom-Made",
+      "image": "http://localhost:3001/Images/ID31_Goku.jpeg"
+    },
+    {
+      "id": 32,
+      "name": "VaultBoy",
+      "description": "Take a leap into the post Nucelar america with this FalloutOut VaultBoy!",
+      "price": 19.99,
+      "category": "Custom-Made",
+      "image": "http://localhost:3001/Images/ID32_Vault_Boy.jpeg"
+    },
+    {
+      "id": 33,
+      "name": "Tracer",
+      "description": "The World Could Always Use more Heros, and it can with this Tracer 3d printed model! 'Cheers Love! The Calviery is here!'",
+      "price": 29.99,
+      "category": "Custom-Made",
+      "image": "http://localhost:3001/Images/ID33_Tracer.jpeg"
+    },
+    {
+      "id": 34,
+      "name": "Omen",
+      "description": "'Watch them run...' Off the shelves! Get this omen model in his famous ult pose today!",
+      "price": 49.99,
+      "category": "Custom-Made",
+      "image": "http://localhost:3001/Images/ID34_Omen.png"
+    },
+    {
+      "id": 35,
+      "name": "Princess Zelda",
+      "description": "Hyrule Needs Saving! Get this Princess Zelda Model today and help save the kingdom of Hyrule!",
+      "price": 59.99,
+      "category": "Custom-Made",
+      "image": "http://localhost:3001/Images/ID35_Zelda.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Master Chief",
+      "description": "You are the frontiers last and only hope! Get this Master Chief Model and help save the galaxy",
+      "price": 29.99,
+      "category": "Custom-Made",
+      "image": "http://localhost:3001/Images/ID36_Master_Chief.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Ember",
+      "description": "Join Ember with all the other characters in the amazing game of Brawlhalla!",
+      "price": 15.99,
+      "category": "Custom-Made",
+      "image": "http://localhost:3001/Images/ID37_Ember.png"
+    },
+    {
+      "id": 38,
+      "name": "Kirby",
+      "description": "Join this little pink guy, Kirby in the quest to save DreamLand!",
+      "price": 39.99,
+      "category": "Custom-Made",
+      "image": "http://localhost:3001/Images/ID38_Kirby.jpeg"
+    },
+    {
+      "id": 39,
+      "name": "Crash",
+      "description": "Join your old Friend Crash! He's Ready for his next adventure!",
+      "price": 59.99,
+      "category": "Custom-Made",
+      "image": "http://localhost:3001/Images/ID39_Crash.png"
+    },
+    {
+      "id": 40,
+      "name": "Spider Gwen",
+      "description": "Where've I been? Really? Reaallly? Oh, just fighting in a war for the fate of all reality. Y'know, like you do. ",
+      "price": 29.99,
+      "category": "Custom-Made",
+      "image": "http://localhost:3001/Images/ID40_Spider_Gwen.jpeg"
+    }
+  ]
+}
